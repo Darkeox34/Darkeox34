@@ -34,7 +34,6 @@
 ### 📊 **GitHub Stats**  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darkeox34&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkeox34&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkeox34&layout=compact&theme=radical&hide_border=true" />
 </div>
 

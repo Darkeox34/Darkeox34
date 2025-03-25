@@ -33,9 +33,9 @@
 
 ### 📊 **GitHub Stats**  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darkeox34&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkeox34&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkeox34&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -47,8 +47,8 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile+Views&color=red&style=flat" alt="Profile views counter" />  
-  <a href="https://github.com/[YOUR_USERNAME]?tab=followers">
-    <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Follow%20Me&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Darkeox34&label=Profile+Views&color=red&style=flat" alt="Profile views counter" />  
+  <a href="https://github.com/Darkeox34?tab=followers">
+    <img src="https://img.shields.io/github/followers/Darkeox34?label=Follow%20Me&style=social" alt="GitHub followers" />
   </a>
 </div>
